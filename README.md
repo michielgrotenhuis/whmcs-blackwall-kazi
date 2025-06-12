@@ -32,28 +32,7 @@ Click **Save Changes** to complete the setup.
 
 ---
 
-## 🛡 Features
 
-- Automated integration with Blackwall's Botguard service.
-- Gatekeeper integration enabled by default (optional toggle).
-- Language file support (strings included for translation).
-- Monitoring-only mode (toggle available in settings).
-- Optional DNS handling for onboarding/offboarding domains (requires DNS management support).
-
----
-
-## 🔧 Customization
-
-- To update API credentials or server info, edit the corresponding lines in the module PHP files.
-- Language files can be found under:
-/modules/servers/blackwall/lang/
-
-yaml
-Copy
-Edit
-- You can add more gatekeeper fields or tweak module behavior as needed.
-
----
 
 ## 📄 License
 
